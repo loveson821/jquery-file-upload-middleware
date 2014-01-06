@@ -1,6 +1,12 @@
 jquery-file-upload-middleware
 =============================
 
+### Changes
+1. imageMagick.resize -> imageMagick.crop
+2. options.getList variable, don't display filelist on production
+3. uploaded filename change to the tmpname
+4. cannot delete image via this plugin
+
 ### Personal Patch Repository
 
 Please comeback [Aleksandr Guidrevitch](http://aguidrevitch.blogspot.com/) lol
